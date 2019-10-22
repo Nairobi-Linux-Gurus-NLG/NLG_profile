@@ -1,0 +1,27 @@
+{
+    "name": "nlg_profile",
+    "version": "1.0.0",
+    "description": "A summary profile for the NLG group as an npm package",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nairobi-Linux-Gurus-NLG/NLG_profile.git"
+    },
+    "author": "NLG",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nairobi-Linux-Gurus-NLG/NLG_profile/issues"
+    },
+    "homepage": "https://github.com/Nairobi-Linux-Gurus-NLG/NLG_profile#readme",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "express": "^4.17.1",
+        "figlet": "^1.2.4",
+        "inquirer": "^7.0.0",
+        "nodemon": "^1.19.4",
+        "ora": "^4.0.2"
+    }
+}
